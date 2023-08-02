@@ -1,5 +1,6 @@
 # AI based 3D T-shirt custmization web application
-![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
+<img width="950" alt="ssss1" src="https://github.com/UsmanBSIT38/AI_based_3D_Tshirt_custmization/assets/114169745/21cda07f-a47c-4fb3-aa42-6a4af78d0189">
+
 
 ## Introduction
 Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence! 
