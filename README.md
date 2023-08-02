@@ -1,4 +1,4 @@
-# Build and Deploy an AI-Powered 3D Website Using React | 2023 Three JS Course Tutorial for Beginners
+# AI based 3D T-shirt custmization web application
 ![3D Website](https://i.ibb.co/Krk39Cf/Thumbnali.png)
 
 ## Introduction
@@ -17,7 +17,10 @@ You'll also learn how to:
 - Generate and use images through DALLE AI
 - Download the resulting t-shirt model image
 - Ensure responsiveness across all devices and improve your site's performance
+- - ## To run this code : 
+- first of all install all dependicies by runing command "npm install"
+- than start project run the command " npm run dev"
+- .env file is missed in this code please make your own env file wch store your own API key.
+- for API key go to OpenAPiS website
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
